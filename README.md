@@ -2,6 +2,12 @@
 
 A Go-based REST API server that searches for product prices across multiple retailers using Google Custom Search API. The service supports multiple countries, automatic currency detection, and scrapes product information from various e-commerce platforms.
 
+## Recorded Demo
+
+🎥 **[Watch Demo Video](https://drive.google.com/file/d/1uuSt0wJa9y5S4n2kRCTOjkulEm_OhT43/view?usp=sharing)**
+
+*Click the link above to see the API in action with live product searches across multiple retailers.*
+
 ## Features
 
 - 🔍 **Multi-Retailer Search**: Searches across major retailers like Amazon, Walmart, Best Buy, Flipkart, etc.
