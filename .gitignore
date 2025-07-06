@@ -1,0 +1,26 @@
+# Ignore build artifacts
+*.exe
+*.out
+*.o
+*.a
+
+# Ignore test files
+*.test
+# Ignore vendor directories
+vendor/
+# Ignore Go workspace files
+go.work
+go.work.sum
+# Ignore IDE/editor specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sh
+
+# Ignore logs
+*.log
+# Ignore coverage files
+*.coverprofile
+*.cov
+
